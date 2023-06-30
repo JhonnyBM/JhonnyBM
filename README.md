@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">👋 Hello!, I´m <b>Jhonny Bermejo</b>👋</h1>
   <div>
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-Jz0Wj_S4aocvQXy-5zpijy4DZ7m1LqD7Knw3cLRwQ05ckx2QU5-hzZIFffxk8bl9pX5ankcGfp2nVzP8QVXf3EbvbcU_Bl7nQQYbAMgeaWJtJc3wepVk1RfuulLpiSYwF51ei_HC_QsCxNIntm3DuGykQAKnDKbVZj1wPNGX3ilfr_k91O_fbEIi/w400-h225/img.png" width="900px" height="400px">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJdxUZuVGUDgZDxF9klTJ7OfmRHissU05NtUT4nOoHm1D3iamuHi5U414eaV216vdvCEcnuPJS3ojVPjwBuLWsG__0Wpx8TjjqoRg9M2RzGpIg-fBRghRCHU4unOV8je0iYQz3DYUkusQ8cIaUbLxlyfVXt7E2464aZNWdbceal6Fon-YI7Y0CrKlj/w640-h360/img.png" width="900px" height="400px">
 </div>
 </div>
 
