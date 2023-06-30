@@ -1,9 +1,13 @@
 <div align="center">
 <h1 align="center">👋 Hello!, I´m <b>Jhonny Bermejo</b>👋</h1>
+  <div>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-Jz0Wj_S4aocvQXy-5zpijy4DZ7m1LqD7Knw3cLRwQ05ckx2QU5-hzZIFffxk8bl9pX5ankcGfp2nVzP8QVXf3EbvbcU_Bl7nQQYbAMgeaWJtJc3wepVk1RfuulLpiSYwF51ei_HC_QsCxNIntm3DuGykQAKnDKbVZj1wPNGX3ilfr_k91O_fbEIi/w400-h225/img.png" width="900px" height="400px">
+</div>
 </div>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jhonnybm)
+
 
 <section>
   <h2>About me</h2>
